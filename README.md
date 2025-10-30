@@ -84,13 +84,16 @@ git clone https://github.com/kaushikigupta4/Nexora_Ecommerce.git
 ```
 ### Step 2: Setup backend
 cd backend
+
 npm install
 
 Create .env file:
 MONGODB_URL=mongodb://127.0.0.1:27017/"ecomm"
+
 PORT=5000
 
 Run the backend:
+
 npm run dev
 
 Your backend should now run on:
@@ -99,6 +102,7 @@ Your backend should now run on:
 ### Step 3: Setup Frontend
 cd ../frontend
 npm install
+
 npm run dev
 
 Frontend runs on:
