@@ -108,4 +108,18 @@ npm run dev
 Frontend runs on:
 http://localhost:3000
 
+ ## 📸 Screenshots
+
+### 🛍️ Product Page
+![Product Page](./screenshots/products.png)
+
+### 🧺 Cart Page
+![Cart Page](./screenshots/cartPage.png)
+
+### 💳 Checkout Modal
+![Checkout Modal](./screenshots/Checkout.png)
+
+### 🧾 Receipt Modal
+![Receipt Modal](./screenshots/paymentReceipt.png)
+
 
