@@ -19,8 +19,8 @@ The application allows users to:
 |-------|-------------|
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB (or SQLite alternative) |
-| **API Communication** | REST APIs using Axios/Fetch |
+| **Database** | MongoDB |
+| **API Communication** | REST APIs using Axios|
 | **Version Control** | GitHub Repository (no hosting) |
 
 ---
